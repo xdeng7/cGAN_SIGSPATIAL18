@@ -13,5 +13,4 @@ To cite this paper:
  isbn = {978-1-4503-5889-7},
  location = {Seattle, Washington},
  pages = {43--52},
- numpages = {10}
 } 
