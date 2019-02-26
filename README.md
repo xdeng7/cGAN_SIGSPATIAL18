@@ -1,10 +1,7 @@
 # cGAN_SIGSPATIAL18
 Code for the paper at ACM SIGSPATIAL 2018, using cGAN to generate ground-level views from satellite images
 
-
-
 To cite this paper:
-
 @inproceedings{Deng:2018:LDG:3274895.3274969,
 
  author = {Deng, Xueqing and Zhu, Yi and Newsam, Shawn},
