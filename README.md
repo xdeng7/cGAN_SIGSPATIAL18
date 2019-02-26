@@ -4,6 +4,7 @@ Code for the paper at ACM SIGSPATIAL 2018, using cGAN to generate ground-level v
 
 
 To cite this paper:
+
 @inproceedings{Deng:2018:LDG:3274895.3274969,
  author = {Deng, Xueqing and Zhu, Yi and Newsam, Shawn},
  title = {What is It Like Down There?: Generating Dense Ground-level Views and Image Features from Overhead Imagery Using Conditional Generative Adversarial Networks},
