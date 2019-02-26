@@ -4,6 +4,7 @@ Code for the paper at ACM SIGSPATIAL 2018, using cGAN to generate ground-level v
 
 ## Dataset
 The dataset is available at https://drive.google.com/drive/folders/1q21ZiOVPIzTkiEy0FBwTHJquy_VEAdP6?usp=sharing
+And you should download the features extracted by image patches. gmap_patch1.txt
 
 ### To cite this paper:
 @inproceedings{Deng:2018:LDG:3274895.3274969,
